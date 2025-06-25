@@ -2,7 +2,6 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { ArrowRight, Crown, Sparkles } from 'lucide-react';
 import ContactForm from './ContactForm';
-import { Typewriter } from 'react-simple-typewriter'
 
 const Hero = () => {
   return (
@@ -78,19 +77,9 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4 }}
             >
-              <span className="text-white">Dobre o</span>{' '}
-              <span className="text-primary">Faturamento</span>{' '}
-              <span className="text-white">
-                <Typewriter 
-                  words={[' do Seu Consultório', ' da Sua Clínica', ' do Seu Negócio']}
-                  loop={0}
-                  cursor
-                  cursorStyle='|'
-                  typeSpeed={100}
-                  deleteSpeed={50}
-                  delaySpeed={2000}
-                />  
-              </span>
+              <span className="text-white">Dobre o</span>
+              <span className="text-primary">Faturamento</span>
+              <span className="text-white">do Seu Consultório</span>
             </motion.h1>
             
             <motion.h2 
