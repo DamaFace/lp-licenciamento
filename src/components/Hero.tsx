@@ -77,8 +77,8 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.4 }}
             >
-              <span className="text-white">Dobre o</span>
-              <span className="text-primary">Faturamento</span>
+              <span className="text-white">Dobre o</span>{' '}
+              <span className="text-primary">Faturamento</span>{' '}
               <span className="text-white">do Seu Consultório</span>
             </motion.h1>
             
