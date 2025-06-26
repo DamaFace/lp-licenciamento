@@ -38,7 +38,7 @@ const ContactForm = () => {
         alert('Obrigado! Entraremos em contato em breve.');
 
         setTimeout(() => {
-          window.location.href = 'https://calendly.com/damafacefranchising/ ';
+          window.location.href = 'https://pay.kiwify.com.br/vEzQ7T3';
         }, 2000);
       })
       .catch((error) => {
