@@ -178,13 +178,13 @@ const ContactForm = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          <span>Agendar Minha Reunião Estratégica</span>
+          <span>Quero implantar agora</span>
           <Send size={20} />
         </motion.button>
 
         <div className="flex items-center justify-center space-x-2 text-sm text-gray-500 mt-4">
           <Shield size={16} />
-          <span>Quero implantar agora</span>
+          <span>Seus dados 100% seguros</span>
         </div>
       </form>
     </motion.div>
