@@ -27,12 +27,6 @@ const ChatWindow: React.FC<ChatWindowProps> = ({ isOpen, onClose }) => {
       role: 'Consultora'
     },
     {
-      id: '2',
-      name: 'Carla',
-      avatar: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
-      role: 'Especialista'
-    },
-    {
       id: '3',
       name: 'Sofia',
       avatar: 'https://images.pexels.com/photos/3756681/pexels-photo-3756681.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
