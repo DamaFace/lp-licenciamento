@@ -184,7 +184,7 @@ const ContactForm = () => {
 
         <div className="flex items-center justify-center space-x-2 text-sm text-gray-500 mt-4">
           <Shield size={16} />
-          <span>Seus dados estão 100% seguros conosco</span>
+          <span>Quero implantar agora</span>
         </div>
       </form>
     </motion.div>
