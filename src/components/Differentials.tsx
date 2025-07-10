@@ -13,8 +13,8 @@ const Differentials = () => {
     },
     {
       feature: "Taxa de Adesão",
-      damaface: "Sem taxa de adesão",
-      others: "Taxas de R$ 15k a R$ 100k",
+      damaface: "Taxa de adesão reduzida R$ 17.900",
+      others: "Taxas iniciais elevadas (R$ 30k a R$ 100k)",
       damafaceIcon: Check,
       othersIcon: X
     },
