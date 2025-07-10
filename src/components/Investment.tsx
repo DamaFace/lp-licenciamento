@@ -7,14 +7,14 @@ const Investment = () => {
     {
       icon: DollarSign,
       label: "Taxa de Adesão",
-      value: "Isenta",
+      value: "R$ 17.900",
       highlight: true,
-      description: "Zero investimento inicial"
+      description: "baixo investimento inicial"
     },
     {
       icon: Calendar,
       label: "Mensalidade",
-      value: "R$ 2.500",
+      value: "R$ 1.900",
       highlight: false,
       description: "Valor fixo mensal"
     },
