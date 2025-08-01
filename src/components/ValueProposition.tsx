@@ -118,7 +118,7 @@ const ValueProposition = () => {
         >
           <div className="bg-gradient-to-r from-gray-50 to-neutral rounded-2xl p-12">
             <h3 className="text-3xl font-bold text-gray-900 mb-6">
-              Tudo Isso por Apenas <span className="text-primary">R$ 2.500/mês</span>
+              Tudo Isso por Apenas <span className="text-primary">R$ 1.900/mês</span>
             </h3>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Investimento que se paga sozinho já no primeiro mês. 
