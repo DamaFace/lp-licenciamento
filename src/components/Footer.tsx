@@ -394,7 +394,7 @@ const termosContent = (
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="text-accent" size={16} />
-                <span className="text-gray-400 text-sm">(19) 99553-4809</span>
+                <span className="text-gray-400 text-sm">(19) 98217-7463</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="text-accent" size={16} />
